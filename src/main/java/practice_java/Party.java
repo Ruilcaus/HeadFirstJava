@@ -1,7 +1,8 @@
-import java.awt.*;
-import java.awt.event.*;
+package practice_java;
 
-  class Party {
+import java.awt.*;
+
+class Party {
     public void buildInvite() {
       Frame f = new Frame();
       Label l = new Label(“Party at Tim’s”);
