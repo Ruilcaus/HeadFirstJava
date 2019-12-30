@@ -1,4 +1,4 @@
-package objectOPractice;
+package chapter1_4;
 
 public class DrumKitTD {
     public static void main(String [] args){

@@ -1,4 +1,4 @@
-package practice_java;
+package chapter1_4;
 
 class MyFirstApp {
     public static void main(String[] args) {
